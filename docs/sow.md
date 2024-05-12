@@ -1,8 +1,11 @@
 # **Scope of Work for ChuckleChain**
 
 Version: 1.0
+
 Created: 2024-05-12
+
 Updated: 2024-05-12
+
 By: Chris
 
 ## **Project Overview**
