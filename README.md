@@ -7,7 +7,7 @@ The intention for this repo is that it contains the required documentation to im
 
 |Language|Status|Repository|
 |---|---|---|
-|Go|Not Started||
+|Go|Started|[Repo](https://github.com/thejff/go-chucklechain)|
 |Odin|Not Started||
 |Haskell|Not Started||
 |Rust|Not Started||
